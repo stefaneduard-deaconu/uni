@@ -41,4 +41,7 @@ funcția de intensitate λ(t).
 
 **TL;DR:**
 * pt fisiere cu poze HQ try **original/**.
+* fisiere:
+  * **generare.pdf** contine algoritmul pt proiect
+  * **labs.pdf** contine sintaxa R (primele 2 lab.)
 * deschizi **Teme de proiect TS 2020.pdf:** pt a verifica **Observatiile!** si apoi proiectul **2.**
