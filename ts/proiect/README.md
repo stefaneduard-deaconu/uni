@@ -1,6 +1,6 @@
 # TS
 
-
+# IMPORTANT update -> [Ultimul lab - VIDEO](https://my.pcloud.com/publink/show?code=kZA7pdkZ0EsmqKcGxPRCln7FfTb9uYSAT49V)
 
 ## README pt echipa!
 
